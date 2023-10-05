@@ -1,0 +1,55 @@
+
+body {
+    background-image: url(./img.jpg);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+}
+
+#studentId {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+section {
+    background-image: url(./img.jpg);
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+
+h2 {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+
+button {
+    font-size: 1em;
+    padding: 10px 20px;
+    margin: 5px;
+    background-color: #af7dae;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #4b831d;
+}
+
+p {
+    margin-top: 10px;
+    font-size: 1.1em;
+    font-weight: bold;
+}
+
